@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNGDemo.VerifyLaunchBrowser2"/>
+      <class name="testNGDemo.testngOne"/>
+      <class name="testNGDemo.testngPriority6"/>
+      <class name="testNGDemo.testngPriority5"/>
+      <class name="testNGDemo.testngSkip"/>
+      <class name="testNGDemo.testngPriority4"/>
+      <class name="testNGDemo.testngPriority3"/>
+      <class name="testNGDemo.testngPriority2"/>
+      <class name="testNGDemo.testngOne3"/>
+      <class name="testNGDemo.testngDependent4"/>
+      <class name="testNGDemo.testngDependent3"/>
+      <class name="testNGDemo.testngOne2"/>
+      <class name="testNGDemo.testngDependent2"/>
+      <class name="testNGDemo.DataProdDemo"/>
+      <class name="testNGDemo.testngDependent"/>
+      <class name="testNGDemo.testngPriority"/>
+      <class name="testNGDemo.VerifyLaunchBrowser"/>
+      <class name="testNGDemo.AssertionDemo3"/>
+      <class name="testNGDemo.AnnotationDemo"/>
+      <class name="testNGDemo.testngSkip2"/>
+      <class name="testNGDemo.testngSkip3"/>
+      <class name="testNGDemo.AssertionDemo"/>
+      <class name="testNGDemo.AssertionDemo2"/>
+      <class name="testNGDemo.SampleListerProg"/>
+      <class name="testNGDemo.AnnotationDemo2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
